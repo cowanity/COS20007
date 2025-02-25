@@ -1,0 +1,5 @@
+/Users/vufanity/COS20007/Custom/TicTacXam/TicTacXam/obj/Debug/net7.0/TicTacXam.csproj.AssemblyReference.cache
+/Users/vufanity/COS20007/Custom/TicTacXam/TicTacXam/obj/Debug/net7.0/TicTacXam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vufanity/COS20007/Custom/TicTacXam/TicTacXam/obj/Debug/net7.0/TicTacXam.AssemblyInfoInputs.cache
+/Users/vufanity/COS20007/Custom/TicTacXam/TicTacXam/obj/Debug/net7.0/TicTacXam.AssemblyInfo.cs
+/Users/vufanity/COS20007/Custom/TicTacXam/TicTacXam/obj/Debug/net7.0/TicTacXam.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+/Users/vufanity/Desktop/Projects/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo
+/Users/vufanity/Desktop/Projects/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.deps.json
+/Users/vufanity/Desktop/Projects/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.runtimeconfig.json
+/Users/vufanity/Desktop/Projects/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.dll
+/Users/vufanity/Desktop/Projects/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.pdb
+/Users/vufanity/Desktop/Projects/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.csproj.AssemblyReference.cache
+/Users/vufanity/Desktop/Projects/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vufanity/Desktop/Projects/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.AssemblyInfoInputs.cache
+/Users/vufanity/Desktop/Projects/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.AssemblyInfo.cs
+/Users/vufanity/Desktop/Projects/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.csproj.CoreCompileInputs.cache
+/Users/vufanity/Desktop/Projects/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.dll
+/Users/vufanity/Desktop/Projects/SplashKitDemo/obj/Debug/net7.0/refint/SplashKitDemo.dll
+/Users/vufanity/Desktop/Projects/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.pdb
+/Users/vufanity/Desktop/Projects/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.genruntimeconfig.cache
+/Users/vufanity/Desktop/Projects/SplashKitDemo/obj/Debug/net7.0/ref/SplashKitDemo.dll

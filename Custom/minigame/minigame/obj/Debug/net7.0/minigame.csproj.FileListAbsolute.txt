@@ -1,0 +1,5 @@
+/Users/vufanity/COS20007/Custom/minigame/minigame/obj/Debug/net7.0/minigame.csproj.AssemblyReference.cache
+/Users/vufanity/COS20007/Custom/minigame/minigame/obj/Debug/net7.0/minigame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vufanity/COS20007/Custom/minigame/minigame/obj/Debug/net7.0/minigame.AssemblyInfoInputs.cache
+/Users/vufanity/COS20007/Custom/minigame/minigame/obj/Debug/net7.0/minigame.AssemblyInfo.cs
+/Users/vufanity/COS20007/Custom/minigame/minigame/obj/Debug/net7.0/minigame.csproj.CoreCompileInputs.cache

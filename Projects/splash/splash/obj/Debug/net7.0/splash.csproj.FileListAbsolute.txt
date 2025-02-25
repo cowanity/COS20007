@@ -1,0 +1,5 @@
+/Users/vufanity/Projects/splash/splash/obj/Debug/net7.0/splash.csproj.AssemblyReference.cache
+/Users/vufanity/Projects/splash/splash/obj/Debug/net7.0/splash.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vufanity/Projects/splash/splash/obj/Debug/net7.0/splash.AssemblyInfoInputs.cache
+/Users/vufanity/Projects/splash/splash/obj/Debug/net7.0/splash.AssemblyInfo.cs
+/Users/vufanity/Projects/splash/splash/obj/Debug/net7.0/splash.csproj.CoreCompileInputs.cache

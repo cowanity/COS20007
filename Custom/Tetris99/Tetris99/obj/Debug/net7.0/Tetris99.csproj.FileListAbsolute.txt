@@ -1,0 +1,7 @@
+/Users/vufanity/COS20007/Custom/Tetris99/Tetris99/obj/Debug/net7.0/Tetris99.csproj.AssemblyReference.cache
+/Users/vufanity/COS20007/Custom/Tetris99/Tetris99/obj/Debug/net7.0/Tetris99.Properties.Resources.resources
+/Users/vufanity/COS20007/Custom/Tetris99/Tetris99/obj/Debug/net7.0/Tetris99.csproj.GenerateResource.cache
+/Users/vufanity/COS20007/Custom/Tetris99/Tetris99/obj/Debug/net7.0/Tetris99.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vufanity/COS20007/Custom/Tetris99/Tetris99/obj/Debug/net7.0/Tetris99.AssemblyInfoInputs.cache
+/Users/vufanity/COS20007/Custom/Tetris99/Tetris99/obj/Debug/net7.0/Tetris99.AssemblyInfo.cs
+/Users/vufanity/COS20007/Custom/Tetris99/Tetris99/obj/Debug/net7.0/Tetris99.csproj.CoreCompileInputs.cache

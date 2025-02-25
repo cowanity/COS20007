@@ -1,0 +1,15 @@
+/Users/vufanity/COS20007/Code/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/vufanity/COS20007/Code/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vufanity/COS20007/Code/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/vufanity/COS20007/Code/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/vufanity/COS20007/Code/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/vufanity/COS20007/Code/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/vufanity/COS20007/Code/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/vufanity/COS20007/Code/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/vufanity/COS20007/Code/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/vufanity/COS20007/Code/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/vufanity/COS20007/Code/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/vufanity/COS20007/Code/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/vufanity/COS20007/Code/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/vufanity/COS20007/Code/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/vufanity/COS20007/Code/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll

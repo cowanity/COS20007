@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{4E9B318D-1D8F-4FD2-BCC1-43DBF28AC272}|Default">
+  <MonoDevelop.Ide.ItemProperties.SpaceWar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpaceWar/lib/SplashKit.cs">
+    <Files>
+      <File FileName="SpaceWar/Program.cs" Line="1" Column="6" />
+      <File FileName="SpaceWar/SpaceGame.cs" Line="7" Column="1" />
+      <File FileName="SpaceWar/Player.cs" Line="1" Column="1" />
+      <File FileName="SpaceWar/Enemy.cs" Line="1" Column="1" />
+      <File FileName="SpaceWar/Bullet.cs" Line="10" Column="17" />
+      <File FileName="SpaceWar/Code.cs" Line="1" Column="1" />
+      <File FileName="SpaceWar/lib/SplashKit.cs" Line="5434" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpaceWar" expanded="True">
+            <Node name="SpaceWar" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="lib" expanded="True">
+                <Node name="SplashKit.cs" selected="True" />
+              </Node>
+              <Node name="SS" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,15 @@
+/Users/vufanity/COS20007/Code/CounterTask/CounterTask/bin/Debug/net6.0/CounterTask
+/Users/vufanity/COS20007/Code/CounterTask/CounterTask/bin/Debug/net6.0/CounterTask.deps.json
+/Users/vufanity/COS20007/Code/CounterTask/CounterTask/bin/Debug/net6.0/CounterTask.runtimeconfig.json
+/Users/vufanity/COS20007/Code/CounterTask/CounterTask/bin/Debug/net6.0/CounterTask.dll
+/Users/vufanity/COS20007/Code/CounterTask/CounterTask/bin/Debug/net6.0/CounterTask.pdb
+/Users/vufanity/COS20007/Code/CounterTask/CounterTask/obj/Debug/net6.0/CounterTask.csproj.AssemblyReference.cache
+/Users/vufanity/COS20007/Code/CounterTask/CounterTask/obj/Debug/net6.0/CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vufanity/COS20007/Code/CounterTask/CounterTask/obj/Debug/net6.0/CounterTask.AssemblyInfoInputs.cache
+/Users/vufanity/COS20007/Code/CounterTask/CounterTask/obj/Debug/net6.0/CounterTask.AssemblyInfo.cs
+/Users/vufanity/COS20007/Code/CounterTask/CounterTask/obj/Debug/net6.0/CounterTask.csproj.CoreCompileInputs.cache
+/Users/vufanity/COS20007/Code/CounterTask/CounterTask/obj/Debug/net6.0/CounterTask.dll
+/Users/vufanity/COS20007/Code/CounterTask/CounterTask/obj/Debug/net6.0/refint/CounterTask.dll
+/Users/vufanity/COS20007/Code/CounterTask/CounterTask/obj/Debug/net6.0/CounterTask.pdb
+/Users/vufanity/COS20007/Code/CounterTask/CounterTask/obj/Debug/net6.0/CounterTask.genruntimeconfig.cache
+/Users/vufanity/COS20007/Code/CounterTask/CounterTask/obj/Debug/net6.0/ref/CounterTask.dll

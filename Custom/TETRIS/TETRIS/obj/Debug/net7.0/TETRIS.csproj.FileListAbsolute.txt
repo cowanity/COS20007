@@ -1,0 +1,17 @@
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/obj/Debug/net7.0/TETRIS.csproj.AssemblyReference.cache
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/obj/Debug/net7.0/TETRIS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/obj/Debug/net7.0/TETRIS.AssemblyInfoInputs.cache
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/obj/Debug/net7.0/TETRIS.AssemblyInfo.cs
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/obj/Debug/net7.0/TETRIS.csproj.CoreCompileInputs.cache
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/bin/Debug/net7.0/TETRIS
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/bin/Debug/net7.0/TETRIS.deps.json
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/bin/Debug/net7.0/TETRIS.runtimeconfig.json
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/bin/Debug/net7.0/TETRIS.dll
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/bin/Debug/net7.0/TETRIS.pdb
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/bin/Debug/net7.0/splashkit.dll
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/obj/Debug/net7.0/TETRIS.csproj.CopyComplete
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/obj/Debug/net7.0/TETRIS.dll
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/obj/Debug/net7.0/refint/TETRIS.dll
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/obj/Debug/net7.0/TETRIS.pdb
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/obj/Debug/net7.0/TETRIS.genruntimeconfig.cache
+/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/obj/Debug/net7.0/ref/TETRIS.dll

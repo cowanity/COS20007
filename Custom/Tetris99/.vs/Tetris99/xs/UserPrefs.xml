@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{48897795-C42D-42AE-810A-058EB9267DE6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Tetris99 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tetris99/ViewModel/TetrisViewModel.cs">
+    <Files>
+      <File FileName="Tetris99/Program.cs" Line="1" Column="1" />
+      <File FileName="Tetris99/Properties/AssemblyInfo.cs" Line="33" Column="12" />
+      <File FileName="Tetris99/View/BlockControl.xaml" Line="1" Column="1" />
+      <File FileName="Tetris99/View/BlockControl.xaml.cs" Line="1" Column="1" />
+      <File FileName="Tetris99/View/MainWindow.xaml" Line="1" Column="1" />
+      <File FileName="Tetris99/View/MainWindow.xaml.cs" Line="1" Column="1" />
+      <File FileName="Tetris99/View/TetrisControlHelper.cs" Line="1" Column="1" />
+      <File FileName="Tetris99/.DS_Store" />
+      <File FileName="Tetris99/ViewModel/TetrisViewModel.cs" Line="18" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tetris99" expanded="True">
+            <Node name="Tetris99" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="View" expanded="True" />
+              <Node name="ViewModel" expanded="True">
+                <Node name="TetrisViewModel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{01B6D840-B017-4BE2-A397-46F78F676DBB}|Default">
+  <MonoDevelop.Ide.ItemProperties.minigame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Games/Snake.cs">
+    <Files>
+      <File FileName="obj/Debug/net7.0/minigame.AssemblyInfo.cs" />
+      <File FileName="Games/Snake.cs" Line="1" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="minigame" expanded="True">
+            <Node name="minigame" expanded="True">
+              <Node name="Games" expanded="True">
+                <Node name="Snake.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

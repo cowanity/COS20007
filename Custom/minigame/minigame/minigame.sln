@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minigame", "minigame.csproj", "{01B6D840-B017-4BE2-A397-46F78F676DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01B6D840-B017-4BE2-A397-46F78F676DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B6D840-B017-4BE2-A397-46F78F676DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B6D840-B017-4BE2-A397-46F78F676DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B6D840-B017-4BE2-A397-46F78F676DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D0238B6-013F-446E-B73A-568BB6C5DA1A}
+	EndGlobalSection
+EndGlobal

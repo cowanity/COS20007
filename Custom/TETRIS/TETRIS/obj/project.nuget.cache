@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D58cwtQJd56J4f1lt6eYzFa+uq5gNAVvyIsobFJCdngqtoVMKFe0QjBpRJGBIOFxe3inOlsb86L485FusLEnuQ==",
+  "success": true,
+  "projectFilePath": "/Users/vufanity/COS20007/Custom/TETRIS/TETRIS/TETRIS.csproj",
+  "expectedPackageFiles": [
+    "/Users/vufanity/.nuget/packages/splashkit/1.0.1/splashkit.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/vufanity/COS20007/SemesterTest/SemesterTest1/SemesterTest1/bin/Debug/net7.0/SemesterTest1
+/Users/vufanity/COS20007/SemesterTest/SemesterTest1/SemesterTest1/bin/Debug/net7.0/SemesterTest1.deps.json
+/Users/vufanity/COS20007/SemesterTest/SemesterTest1/SemesterTest1/bin/Debug/net7.0/SemesterTest1.runtimeconfig.json
+/Users/vufanity/COS20007/SemesterTest/SemesterTest1/SemesterTest1/bin/Debug/net7.0/SemesterTest1.dll
+/Users/vufanity/COS20007/SemesterTest/SemesterTest1/SemesterTest1/bin/Debug/net7.0/SemesterTest1.pdb
+/Users/vufanity/COS20007/SemesterTest/SemesterTest1/SemesterTest1/obj/Debug/net7.0/SemesterTest1.csproj.AssemblyReference.cache
+/Users/vufanity/COS20007/SemesterTest/SemesterTest1/SemesterTest1/obj/Debug/net7.0/SemesterTest1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vufanity/COS20007/SemesterTest/SemesterTest1/SemesterTest1/obj/Debug/net7.0/SemesterTest1.AssemblyInfoInputs.cache
+/Users/vufanity/COS20007/SemesterTest/SemesterTest1/SemesterTest1/obj/Debug/net7.0/SemesterTest1.AssemblyInfo.cs
+/Users/vufanity/COS20007/SemesterTest/SemesterTest1/SemesterTest1/obj/Debug/net7.0/SemesterTest1.csproj.CoreCompileInputs.cache
+/Users/vufanity/COS20007/SemesterTest/SemesterTest1/SemesterTest1/obj/Debug/net7.0/SemesterTest1.dll
+/Users/vufanity/COS20007/SemesterTest/SemesterTest1/SemesterTest1/obj/Debug/net7.0/refint/SemesterTest1.dll
+/Users/vufanity/COS20007/SemesterTest/SemesterTest1/SemesterTest1/obj/Debug/net7.0/SemesterTest1.pdb
+/Users/vufanity/COS20007/SemesterTest/SemesterTest1/SemesterTest1/obj/Debug/net7.0/SemesterTest1.genruntimeconfig.cache
+/Users/vufanity/COS20007/SemesterTest/SemesterTest1/SemesterTest1/obj/Debug/net7.0/ref/SemesterTest1.dll

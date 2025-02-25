@@ -1,0 +1,15 @@
+/Users/vufanity/COS20007/Code/Colections/Colections/obj/Debug/net7.0/Colections.csproj.AssemblyReference.cache
+/Users/vufanity/COS20007/Code/Colections/Colections/obj/Debug/net7.0/Colections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vufanity/COS20007/Code/Colections/Colections/obj/Debug/net7.0/Colections.AssemblyInfoInputs.cache
+/Users/vufanity/COS20007/Code/Colections/Colections/obj/Debug/net7.0/Colections.AssemblyInfo.cs
+/Users/vufanity/COS20007/Code/Colections/Colections/obj/Debug/net7.0/Colections.csproj.CoreCompileInputs.cache
+/Users/vufanity/COS20007/Code/Colections/Colections/bin/Debug/net7.0/Colections
+/Users/vufanity/COS20007/Code/Colections/Colections/bin/Debug/net7.0/Colections.deps.json
+/Users/vufanity/COS20007/Code/Colections/Colections/bin/Debug/net7.0/Colections.runtimeconfig.json
+/Users/vufanity/COS20007/Code/Colections/Colections/bin/Debug/net7.0/Colections.dll
+/Users/vufanity/COS20007/Code/Colections/Colections/bin/Debug/net7.0/Colections.pdb
+/Users/vufanity/COS20007/Code/Colections/Colections/obj/Debug/net7.0/Colections.dll
+/Users/vufanity/COS20007/Code/Colections/Colections/obj/Debug/net7.0/refint/Colections.dll
+/Users/vufanity/COS20007/Code/Colections/Colections/obj/Debug/net7.0/Colections.pdb
+/Users/vufanity/COS20007/Code/Colections/Colections/obj/Debug/net7.0/Colections.genruntimeconfig.cache
+/Users/vufanity/COS20007/Code/Colections/Colections/obj/Debug/net7.0/ref/Colections.dll

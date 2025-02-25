@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TETRIS/1.0.0": {
+        "dependencies": {
+          "SplashKit": "1.0.1"
+        },
+        "runtime": {
+          "TETRIS.dll": {}
+        }
+      },
+      "SplashKit/1.0.1": {
+        "runtime": {
+          "lib/net7.0/splashkit.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TETRIS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SplashKit/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CsrtSsk2cyjt5i2iZYcanbjnguf9ZkDH6XTOFEsUpAmuCoxOdhziYyodxJ4prcVJ1mXsacEcZEigvkbzTCaUAg==",
+      "path": "splashkit/1.0.1",
+      "hashPath": "splashkit.1.0.1.nupkg.sha512"
+    }
+  }
+}

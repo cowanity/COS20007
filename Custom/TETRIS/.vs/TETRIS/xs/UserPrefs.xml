@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0EA947CF-B15A-4DE6-8D21-66407EA825D7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TETRIS/Program.cs">
+    <Files>
+      <File FileName="TETRIS/Program.cs" Line="23" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TETRIS" expanded="True">
+            <Node name="TETRIS" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TETRIS PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

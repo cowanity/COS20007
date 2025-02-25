@@ -1,0 +1,8 @@
+/Users/vufanity/COS20007/Custom/SpaceWar/SpaceWar/obj/Debug/net7.0/SpaceWar.csproj.AssemblyReference.cache
+/Users/vufanity/COS20007/Custom/SpaceWar/SpaceWar/obj/Debug/net7.0/MusicPlayerApp.MusicPlayerApp.resources
+/Users/vufanity/COS20007/Custom/SpaceWar/SpaceWar/obj/Debug/net7.0/SpaceWar.Properties.Resources.resources
+/Users/vufanity/COS20007/Custom/SpaceWar/SpaceWar/obj/Debug/net7.0/SpaceWar.csproj.GenerateResource.cache
+/Users/vufanity/COS20007/Custom/SpaceWar/SpaceWar/obj/Debug/net7.0/SpaceWar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vufanity/COS20007/Custom/SpaceWar/SpaceWar/obj/Debug/net7.0/SpaceWar.AssemblyInfoInputs.cache
+/Users/vufanity/COS20007/Custom/SpaceWar/SpaceWar/obj/Debug/net7.0/SpaceWar.AssemblyInfo.cs
+/Users/vufanity/COS20007/Custom/SpaceWar/SpaceWar/obj/Debug/net7.0/SpaceWar.csproj.CoreCompileInputs.cache
